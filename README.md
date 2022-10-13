@@ -8,12 +8,25 @@
 
 </div>
 
+<br>
+<br>
+
+- 👩‍💼 I’m Vivek Rathore
+- 🔭 I’m currently working on Web development
+- 🌱 I’m currently learning Augmented Reality
+- 👯 I’m looking to collaborate on APIs on NodeJS
+- 💬 Ask me about Augmented Reality, Unity, Spark AR, Data structures
+
+
 <div align="center">
 
 Welcome to my Github profile. <br>
+  
+
+  
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://gist.github.com/Vivekrathore1801/58006517e10f704117011e21b11650e1"><b>here</b></a><br>
-or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
+or <a href="mailto:vivekrathore1801@gmail.com"><b>email</b></a> me
 
 </div>
 
@@ -24,20 +37,15 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a>  
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="70" height="70"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/> </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="70" height="70"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="70"/> </a>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="70" height="70"/> </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="70" height="70"/> </a>  
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="70" height="70"/> </a> 
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> </a>
-
 
 
  </p>
@@ -45,27 +53,27 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 ## 🗄 My projects:
 
 
-[![React-Color-Picker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=ColorPicker&show_owner=true&theme=dark)](https://github.com/J4Web/ColorPicker)
+[![Employee_management_system](https://github-readme-stats.vercel.app/api/pin/?username=vivekrathore1801&repo=employee&show_owner=true&theme=dark)](https://github.com/Vivekrathore1801/employee)
 
-[![Covid-19 Tracker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=Covid_Tracker&show_owner=true&theme=dark)](https://github.com/J4Web/Covid_Tracker)
+[![Memories App](https://github-readme-stats.vercel.app/api/pin/?username=vivekrathore1801&repo=MemoriesApp&show_owner=true&theme=dark)](https://github.com/Vivekrathore1801/MemoriesApp)
 
-[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=sparkbanking&show_owner=true&theme=dark)
-](https://github.com/J4Web/sparkbanking)
+[![Placement Major](https://github-readme-stats.vercel.app/api/pin/?username=vivekrathore1801&repo=placement_major&show_owner=true&theme=dark)
+](https://github.com/Vivekrathore1801/placement_major)
 
 
 ## GitHub Stats
 [
-![J4WEB's github activity graph](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)
+![J4WEB's github activity graph](https://activity-graph.herokuapp.com/graph?username=vivekrathore1801&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=vivekrathore1801&theme=react-dark)
 
-<img alt="Github-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=j4web&theme=chartreuse-dark"/>
+<img alt="Github-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekrathore1801&theme=chartreuse-dark"/>
 
-<a href="https://github.com/j4web">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=j4web&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="J4WEB's Stats">
+<a href="https://github.com/vivekrathore1801">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekrathore1801&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Vivek's Stats">
   </a>
 
 
-<a href="https://github.com/j4web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4web&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/vivekrathore1801">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrathore1801&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ---
@@ -74,8 +82,8 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/j4web31.svg?style=social&label=Follow%20%40j4web)](https://twitter.com/j4web31)
-<a href="https://www.linkedin.com/in/prakhar-srivastava-427904194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/Prakhar_31_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Twitter URL](https://img.shields.io/twitter/url/http/twitter.com/RathoreVivek7.svg?style=social&label=Follow%20%40vivek)](https://twitter.com/j4web31)
+<a href="https://www.linkedin.com/in/vivek-kumar-1801/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/you_call_me_vivek" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
