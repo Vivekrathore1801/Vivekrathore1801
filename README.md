@@ -86,7 +86,7 @@ or <a href="mailto:vivekrathore1801@gmail.com"><b>email</b></a> me
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-[![Twitter URL](https://img.shields.io/twitter/url/http/twitter.com/RathoreVivek7.svg?style=social&label=Follow%20%40vivek)](https://twitter.com/Rathorevivek7)
+[![Twitter URL](https://img.shields.io/http/twitter.com/RathoreVivek7.svg?style=social&label=Follow%20%40vivek)](https://twitter.com/Rathorevivek7)
 <a href="https://www.linkedin.com/in/vivek-kumar-1801/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/you_call_me_vivek" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
